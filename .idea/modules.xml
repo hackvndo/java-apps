@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/App.iml" filepath="$PROJECT_DIR$/.idea/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatalogoPeliculasApp/CatalogoPeliculasApp.iml" filepath="$PROJECT_DIR$/CatalogoPeliculasApp/CatalogoPeliculasApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListadoPersonasApp/ListadoPersonasApp.iml" filepath="$PROJECT_DIR$/ListadoPersonasApp/ListadoPersonasApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeluqueriaCaninaApp/PeluqueriaCaninaApp.iml" filepath="$PROJECT_DIR$/PeluqueriaCaninaApp/PeluqueriaCaninaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VentaComputadorasApp/VentaComputadorasApp.iml" filepath="$PROJECT_DIR$/VentaComputadorasApp/VentaComputadorasApp.iml" />
+    </modules>
+  </component>
+</project>
